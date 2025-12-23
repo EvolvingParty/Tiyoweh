@@ -38,7 +38,7 @@ The Apple Watch app is designed to be used **in the moment**, without distractio
 
 The iPhone app complements the Watch experience by providing configuration and customisation options, without adding extra menus to the Apple Watch app.
 
-<img src="images/watch/3.003/Watch Theme - iPhone 17 Pro - 2025-12-20 at 09.41.47.png" width="360">
+<img src="images/watch/3.003/Watch Theme - iPhone 17 Pro.png" width="360">
 
 **Watch Theme Settings**  
 Customise colours and visual tone that sync directly to the Apple Watch app.
