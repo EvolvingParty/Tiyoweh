@@ -24,12 +24,12 @@ The Apple Watch app is designed to be used **in the moment**, without distractio
 
 | Timer | Workout | State of Mind |
 |------|---------|---------------|
-| <img src="images/watch/3.003/New Timer - Apple Watch Series 11 (46mm).png" width="170"> | <img src="images/watch/3.003/Workout - Apple Watch Series 11 (46mm).png" width="170"> | <img src="images/watch/3.003/State Of Mind #1 - Apple Watch Series 11 (46mm).png" width="170"> |
+| <img src="images/watch/3.003/New Timer - Apple Watch Series 11 (46mm).png" width="170"> | <img src="images/watch/3.003/Workout - Apple Watch Series 11 (46mm).png" width="170"> | <img src="images/watch/3.003/State Of Mind 1 - Apple Watch Series 11 (46mm).png" width="170"> |
 | Create custom sessions | Guided breathing or focus | Emotional check-in |
 
 | Reflection | History | Daily Goal |
 |------------|---------|------------|
-| <img src="images/watch/3.003/State Of Mind #2 - Apple Watch Series 11 (46mm).png" width="170"> | <img src="images/watch/3.003/History - Apple Watch Series 11 (46mm).png" width="170"> | <img src="images/watch/3.003/Daily Goal - Apple Watch Series 11 (46mm).png" width="170"> |
+| <img src="images/watch/3.003/State Of Mind 2 - Apple Watch Series 11 (46mm).png" width="170"> | <img src="images/watch/3.003/History - Apple Watch Series 11 (46mm).png" width="170"> | <img src="images/watch/3.003/Daily Goal - Apple Watch Series 11 (46mm).png" width="170"> |
 | Post-session reflection | View past sessions | Progress toward daily intention |
 
 ---
